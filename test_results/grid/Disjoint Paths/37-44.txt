@@ -1,0 +1,341 @@
+﻿SRLG: 12
+
+*** Iperf: testing TCP bandwidth between h3 and h8
+*** Results: ['13.9 Gbits/sec', '13.9 Gbits/sec']
+number:  13.9
+*** Iperf: testing TCP bandwidth between h3 and h14
+*** Results: ['9.89 Gbits/sec', '9.90 Gbits/sec']
+number:  9.89
+*** Iperf: testing TCP bandwidth between h3 and h18
+*** Results: ['12.5 Gbits/sec', '12.6 Gbits/sec']
+number:  12.5
+*** Iperf: testing TCP bandwidth between h3 and h29
+*** Results: ['9.36 Gbits/sec', '9.38 Gbits/sec']
+number:  9.36
+*** Iperf: testing TCP bandwidth between h3 and h33
+*** Results: ['9.38 Gbits/sec', '9.39 Gbits/sec']
+number:  9.38
+*** Iperf: testing TCP bandwidth between h3 and h44
+*** Results: ['9.01 Gbits/sec', '9.03 Gbits/sec']
+number:  9.01
+*** Iperf: testing TCP bandwidth between h3 and h49
+*** Results: ['8.22 Gbits/sec', '8.23 Gbits/sec']
+number:  8.22
+*** Iperf: testing TCP bandwidth between h8 and h3
+*** Results: ['13.1 Gbits/sec', '13.2 Gbits/sec']
+number:  13.1
+*** Iperf: testing TCP bandwidth between h8 and h14
+*** Results: ['9.36 Gbits/sec', '9.38 Gbits/sec']
+number:  9.36
+*** Iperf: testing TCP bandwidth between h8 and h18
+*** Results: ['13.8 Gbits/sec', '13.8 Gbits/sec']
+number:  13.8
+*** Iperf: testing TCP bandwidth between h8 and h29
+*** Results: ['11.0 Gbits/sec', '11.0 Gbits/sec']
+number:  11.0
+*** Iperf: testing TCP bandwidth between h8 and h33
+*** Results: ['9.08 Gbits/sec', '9.10 Gbits/sec']
+number:  9.08
+*** Iperf: testing TCP bandwidth between h8 and h44
+*** Results: ['9.64 Gbits/sec', '9.65 Gbits/sec']
+number:  9.64
+*** Iperf: testing TCP bandwidth between h8 and h49
+*** Results: ['7.38 Gbits/sec', '7.40 Gbits/sec']
+number:  7.38
+*** Iperf: testing TCP bandwidth between h14 and h3
+*** Results: ['9.87 Gbits/sec', '9.88 Gbits/sec']
+number:  9.87
+*** Iperf: testing TCP bandwidth between h14 and h8
+*** Results: ['9.95 Gbits/sec', '9.97 Gbits/sec']
+number:  9.95
+*** Iperf: testing TCP bandwidth between h14 and h18
+*** Results: ['13.7 Gbits/sec', '13.7 Gbits/sec']
+number:  13.7
+*** Iperf: testing TCP bandwidth between h14 and h29
+*** Results: ['8.37 Gbits/sec', '8.38 Gbits/sec']
+number:  8.37
+*** Iperf: testing TCP bandwidth between h14 and h33
+*** Results: ['10.2 Gbits/sec', '10.3 Gbits/sec']
+number:  10.2
+*** Iperf: testing TCP bandwidth between h14 and h44
+*** Results: ['8.03 Gbits/sec', '8.04 Gbits/sec']
+number:  8.03
+*** Iperf: testing TCP bandwidth between h14 and h49
+*** Results: ['9.88 Gbits/sec', '9.90 Gbits/sec']
+number:  9.88
+*** Iperf: testing TCP bandwidth between h18 and h3
+*** Results: ['14.2 Gbits/sec', '14.2 Gbits/sec']
+number:  14.2
+*** Iperf: testing TCP bandwidth between h18 and h8
+*** Results: ['10.7 Gbits/sec', '10.7 Gbits/sec']
+number:  10.7
+*** Iperf: testing TCP bandwidth between h18 and h14
+*** Results: ['10.5 Gbits/sec', '10.6 Gbits/sec']
+number:  10.5
+*** Iperf: testing TCP bandwidth between h18 and h29
+*** Results: ['10.0 Gbits/sec', '10.1 Gbits/sec']
+number:  10.0
+*** Iperf: testing TCP bandwidth between h18 and h33
+*** Results: ['13.6 Gbits/sec', '13.6 Gbits/sec']
+number:  13.6
+*** Iperf: testing TCP bandwidth between h18 and h44
+*** Results: ['9.61 Gbits/sec', '9.63 Gbits/sec']
+number:  9.61
+*** Iperf: testing TCP bandwidth between h18 and h49
+*** Results: ['8.98 Gbits/sec', '8.99 Gbits/sec']
+number:  8.98
+*** Iperf: testing TCP bandwidth between h29 and h3
+*** Results: ['9.51 Gbits/sec', '9.51 Gbits/sec']
+number:  9.51
+*** Iperf: testing TCP bandwidth between h29 and h8
+*** Results: ['13.0 Gbits/sec', '13.0 Gbits/sec']
+number:  13.0
+*** Iperf: testing TCP bandwidth between h29 and h14
+*** Results: ['8.39 Gbits/sec', '8.40 Gbits/sec']
+number:  8.39
+*** Iperf: testing TCP bandwidth between h29 and h18
+*** Results: ['9.89 Gbits/sec', '9.89 Gbits/sec']
+number:  9.89
+*** Iperf: testing TCP bandwidth between h29 and h33
+*** Results: ['10.4 Gbits/sec', '10.5 Gbits/sec']
+number:  10.4
+*** Iperf: testing TCP bandwidth between h29 and h44
+*** Results: ['13.8 Gbits/sec', '13.9 Gbits/sec']
+number:  13.8
+*** Iperf: testing TCP bandwidth between h29 and h49
+*** Results: ['8.55 Gbits/sec', '8.56 Gbits/sec']
+number:  8.55
+*** Iperf: testing TCP bandwidth between h33 and h3
+*** Results: ['9.79 Gbits/sec', '9.81 Gbits/sec']
+number:  9.79
+*** Iperf: testing TCP bandwidth between h33 and h8
+*** Results: ['9.15 Gbits/sec', '9.17 Gbits/sec']
+number:  9.15
+*** Iperf: testing TCP bandwidth between h33 and h14
+*** Results: ['9.94 Gbits/sec', '9.96 Gbits/sec']
+number:  9.94
+*** Iperf: testing TCP bandwidth between h33 and h18
+*** Results: ['14.1 Gbits/sec', '14.1 Gbits/sec']
+number:  14.1
+*** Iperf: testing TCP bandwidth between h33 and h29
+*** Results: ['12.5 Gbits/sec', '12.5 Gbits/sec']
+number:  12.5
+*** Iperf: testing TCP bandwidth between h33 and h44
+*** Results: ['10.0 Gbits/sec', '10.0 Gbits/sec']
+number:  10.0
+*** Iperf: testing TCP bandwidth between h33 and h49
+*** Results: ['10.4 Gbits/sec', '10.4 Gbits/sec']
+number:  10.4
+*** Iperf: testing TCP bandwidth between h44 and h3
+*** Results: ['9.20 Gbits/sec', '9.21 Gbits/sec']
+number:  9.2
+*** Iperf: testing TCP bandwidth between h44 and h8
+*** Results: ['9.40 Gbits/sec', '9.42 Gbits/sec']
+number:  9.4
+*** Iperf: testing TCP bandwidth between h44 and h14
+*** Results: ['8.09 Gbits/sec', '8.11 Gbits/sec']
+number:  8.09
+*** Iperf: testing TCP bandwidth between h44 and h18
+*** Results: ['9.52 Gbits/sec', '9.54 Gbits/sec']
+number:  9.52
+*** Iperf: testing TCP bandwidth between h44 and h29
+*** Results: ['13.8 Gbits/sec', '13.8 Gbits/sec']
+number:  13.8
+*** Iperf: testing TCP bandwidth between h44 and h33
+*** Results: ['9.93 Gbits/sec', '9.96 Gbits/sec']
+number:  9.93
+*** Iperf: testing TCP bandwidth between h44 and h49
+*** Results: ['10.0 Gbits/sec', '10.0 Gbits/sec']
+number:  10.0
+*** Iperf: testing TCP bandwidth between h49 and h3
+*** Results: ['7.94 Gbits/sec', '7.94 Gbits/sec']
+number:  7.94
+*** Iperf: testing TCP bandwidth between h49 and h8
+*** Results: ['7.71 Gbits/sec', '7.72 Gbits/sec']
+number:  7.71
+*** Iperf: testing TCP bandwidth between h49 and h14
+*** Results: ['9.71 Gbits/sec', '9.72 Gbits/sec']
+number:  9.71
+*** Iperf: testing TCP bandwidth between h49 and h18
+*** Results: ['9.28 Gbits/sec', '9.30 Gbits/sec']
+number:  9.28
+*** Iperf: testing TCP bandwidth between h49 and h29
+*** Results: ['8.76 Gbits/sec', '8.77 Gbits/sec']
+number:  8.76
+*** Iperf: testing TCP bandwidth between h49 and h33
+*** Results: ['12.9 Gbits/sec', '12.9 Gbits/sec']
+number:  12.9
+*** Iperf: testing TCP bandwidth between h49 and h44
+*** Results: ['10.1 Gbits/sec', '10.1 Gbits/sec']
+number:  10.1
+Average speed:  10.33875
+---------------------------------------------------------------
+*** Iperf: testing TCP bandwidth between h3 and h8
+*** Results: ['10.6 Gbits/sec', '10.6 Gbits/sec']
+number:  10.6
+*** Iperf: testing TCP bandwidth between h3 and h14
+*** Results: ['9.57 Gbits/sec', '9.58 Gbits/sec']
+number:  9.57
+*** Iperf: testing TCP bandwidth between h3 and h18
+*** Results: ['13.1 Gbits/sec', '13.1 Gbits/sec']
+number:  13.1
+*** Iperf: testing TCP bandwidth between h3 and h29
+*** Results: ['9.29 Gbits/sec', '9.29 Gbits/sec']
+number:  9.29
+*** Iperf: testing TCP bandwidth between h3 and h33
+*** Results: ['9.19 Gbits/sec', '9.20 Gbits/sec']
+number:  9.19
+*** Iperf: testing TCP bandwidth between h3 and h44
+*** Results: ['8.68 Gbits/sec', '8.70 Gbits/sec']
+number:  8.68
+*** Iperf: testing TCP bandwidth between h3 and h49
+*** Results: ['7.75 Gbits/sec', '7.77 Gbits/sec']
+number:  7.75
+*** Iperf: testing TCP bandwidth between h8 and h3
+*** Results: ['10.8 Gbits/sec', '10.8 Gbits/sec']
+number:  10.8
+*** Iperf: testing TCP bandwidth between h8 and h14
+*** Results: ['9.11 Gbits/sec', '9.13 Gbits/sec']
+number:  9.11
+*** Iperf: testing TCP bandwidth between h8 and h18
+*** Results: ['12.5 Gbits/sec', '12.5 Gbits/sec']
+number:  12.5
+*** Iperf: testing TCP bandwidth between h8 and h29
+*** Results: ['13.3 Gbits/sec', '13.3 Gbits/sec']
+number:  13.3
+*** Iperf: testing TCP bandwidth between h8 and h33
+*** Results: ['8.48 Gbits/sec', '8.49 Gbits/sec']
+number:  8.48
+*** Iperf: testing TCP bandwidth between h8 and h44
+*** Results: ['8.76 Gbits/sec', '8.77 Gbits/sec']
+number:  8.76
+*** Iperf: testing TCP bandwidth between h8 and h49
+*** Results: ['7.48 Gbits/sec', '7.47 Gbits/sec']
+number:  7.48
+*** Iperf: testing TCP bandwidth between h14 and h3
+*** Results: ['11.7 Gbits/sec', '11.7 Gbits/sec']
+number:  11.7
+*** Iperf: testing TCP bandwidth between h14 and h8
+*** Results: ['8.89 Gbits/sec', '8.91 Gbits/sec']
+number:  8.89
+*** Iperf: testing TCP bandwidth between h14 and h18
+*** Results: ['12.7 Gbits/sec', '12.7 Gbits/sec']
+number:  12.7
+*** Iperf: testing TCP bandwidth between h14 and h29
+*** Results: ['7.59 Gbits/sec', '7.60 Gbits/sec']
+number:  7.59
+*** Iperf: testing TCP bandwidth between h14 and h33
+*** Results: ['9.55 Gbits/sec', '9.55 Gbits/sec']
+number:  9.55
+*** Iperf: testing TCP bandwidth between h14 and h44
+*** Results: ['7.56 Gbits/sec', '7.57 Gbits/sec']
+number:  7.56
+*** Iperf: testing TCP bandwidth between h14 and h49
+*** Results: ['11.3 Gbits/sec', '11.3 Gbits/sec']
+number:  11.3
+*** Iperf: testing TCP bandwidth between h18 and h3
+*** Results: ['10.7 Gbits/sec', '10.7 Gbits/sec']
+number:  10.7
+*** Iperf: testing TCP bandwidth between h18 and h8
+*** Results: ['12.3 Gbits/sec', '12.3 Gbits/sec']
+number:  12.3
+*** Iperf: testing TCP bandwidth between h18 and h14
+*** Results: ['10.2 Gbits/sec', '10.2 Gbits/sec']
+number:  10.2
+*** Iperf: testing TCP bandwidth between h18 and h29
+*** Results: ['9.54 Gbits/sec', '9.55 Gbits/sec']
+number:  9.54
+*** Iperf: testing TCP bandwidth between h18 and h33
+*** Results: ['13.1 Gbits/sec', '13.1 Gbits/sec']
+number:  13.1
+*** Iperf: testing TCP bandwidth between h18 and h44
+*** Results: ['9.03 Gbits/sec', '9.05 Gbits/sec']
+number:  9.03
+*** Iperf: testing TCP bandwidth between h18 and h49
+*** Results: ['8.72 Gbits/sec', '8.74 Gbits/sec']
+number:  8.72
+*** Iperf: testing TCP bandwidth between h29 and h3
+*** Results: ['9.13 Gbits/sec', '9.15 Gbits/sec']
+number:  9.13
+*** Iperf: testing TCP bandwidth between h29 and h8
+*** Results: ['13.1 Gbits/sec', '13.1 Gbits/sec']
+number:  13.1
+*** Iperf: testing TCP bandwidth between h29 and h14
+*** Results: ['7.90 Gbits/sec', '7.90 Gbits/sec']
+number:  7.9
+*** Iperf: testing TCP bandwidth between h29 and h18
+*** Results: ['12.1 Gbits/sec', '12.2 Gbits/sec']
+number:  12.1
+*** Iperf: testing TCP bandwidth between h29 and h33
+*** Results: ['9.76 Gbits/sec', '9.77 Gbits/sec']
+number:  9.76
+*** Iperf: testing TCP bandwidth between h29 and h44
+*** Results: ['9.56 Gbits/sec', '9.59 Gbits/sec']
+number:  9.56
+*** Iperf: testing TCP bandwidth between h29 and h49
+*** Results: ['9.89 Gbits/sec', '9.90 Gbits/sec']
+number:  9.89
+*** Iperf: testing TCP bandwidth between h33 and h3
+*** Results: ['9.02 Gbits/sec', '9.03 Gbits/sec']
+number:  9.02
+*** Iperf: testing TCP bandwidth between h33 and h8
+*** Results: ['8.58 Gbits/sec', '8.58 Gbits/sec']
+number:  8.58
+*** Iperf: testing TCP bandwidth between h33 and h14
+*** Results: ['12.0 Gbits/sec', '12.0 Gbits/sec']
+number:  12.0
+*** Iperf: testing TCP bandwidth between h33 and h18
+*** Results: ['10.3 Gbits/sec', '10.3 Gbits/sec']
+number:  10.3
+*** Iperf: testing TCP bandwidth between h33 and h29
+*** Results: ['10.1 Gbits/sec', '10.2 Gbits/sec']
+number:  10.1
+*** Iperf: testing TCP bandwidth between h33 and h44
+*** Results: ['9.60 Gbits/sec', '9.61 Gbits/sec']
+number:  9.6
+*** Iperf: testing TCP bandwidth between h33 and h49
+*** Results: ['10.1 Gbits/sec', '10.1 Gbits/sec']
+number:  10.1
+*** Iperf: testing TCP bandwidth between h44 and h3
+*** Results: ['8.61 Gbits/sec', '8.62 Gbits/sec']
+number:  8.61
+*** Iperf: testing TCP bandwidth between h44 and h8
+*** Results: ['8.98 Gbits/sec', '8.99 Gbits/sec']
+number:  8.98
+*** Iperf: testing TCP bandwidth between h44 and h14
+*** Results: ['7.73 Gbits/sec', '7.75 Gbits/sec']
+number:  7.73
+*** Iperf: testing TCP bandwidth between h44 and h18
+*** Results: ['9.21 Gbits/sec', '9.21 Gbits/sec']
+number:  9.21
+*** Iperf: testing TCP bandwidth between h44 and h29
+*** Results: ['9.82 Gbits/sec', '9.84 Gbits/sec']
+number:  9.82
+*** Iperf: testing TCP bandwidth between h44 and h33
+*** Results: ['9.64 Gbits/sec', '9.65 Gbits/sec']
+number:  9.64
+*** Iperf: testing TCP bandwidth between h44 and h49
+*** Results: ['9.88 Gbits/sec', '9.89 Gbits/sec']
+number:  9.88
+*** Iperf: testing TCP bandwidth between h49 and h3
+*** Results: ['7.54 Gbits/sec', '7.54 Gbits/sec']
+number:  7.54
+*** Iperf: testing TCP bandwidth between h49 and h8
+*** Results: ['7.30 Gbits/sec', '7.29 Gbits/sec']
+number:  7.3
+*** Iperf: testing TCP bandwidth between h49 and h14
+*** Results: ['9.47 Gbits/sec', '9.48 Gbits/sec']
+number:  9.47
+*** Iperf: testing TCP bandwidth between h49 and h18
+*** Results: ['8.77 Gbits/sec', '8.79 Gbits/sec']
+number:  8.77
+*** Iperf: testing TCP bandwidth between h49 and h29
+*** Results: ['8.42 Gbits/sec', '8.45 Gbits/sec']
+number:  8.42
+*** Iperf: testing TCP bandwidth between h49 and h33
+*** Results: ['12.5 Gbits/sec', '12.5 Gbits/sec']
+number:  12.5
+*** Iperf: testing TCP bandwidth between h49 and h44
+*** Results: ['9.62 Gbits/sec', '9.64 Gbits/sec']
+number:  9.62
+Average speed:  9.82357142857
