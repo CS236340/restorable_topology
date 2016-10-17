@@ -33,4 +33,9 @@ First, you will need to edit the file *restorable_topology/src/mininet/customTop
 Then run the following command:
 > mn --custom restorable_topology/src/mininet/customTopologyInitializerTest.py --topo customTopology --controller=remote --switch ovsk --mac --arp
 
+**Starting a bandwith test:**
+
+Now you will need to edit the file *restorable_topology/src/mininet/bandwidthTest.py*, in the same manner described before. Then run the following command:
+> mn --custom restorable_topology/src/mininet/bandwidthTest.py
+
 This project has been tested with RYU version 4.2.
