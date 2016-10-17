@@ -1,4 +1,5 @@
 # Implementing a restorable logical topology
+(This project has been tested with RYU version 4.2)
 
 This project is an attempt to implement the MM-SRLG algorithm presented in the paper "Restorable Logical Topology in the Face of No or Partial Traffic Demand Knowledge" by Prof. Reuven Cohen and Dr. Gabi Nakibly.
 
@@ -23,7 +24,10 @@ See examples in the directory *network_generators*.
 
 **Starting up the controller:**
 
-Run the following command from Ryu's main directory (modify the paths in the command accordingly):
+In order for this step to work, you will first need to update the file *ryu/ryu/flags.py* (found in Ryu's directory) so you can pass the network description file as an argument to the controller application. Simply add the following line at the end of the file:
+> CONF.register_cli_opts([cfg.StrOpt('network-file', help='file describing network components')], group='project')
+
+Now run the following command from Ryu's main directory (modify the paths in the command accordingly):
 > PYTHONPATH=. ./bin/ryu-manager ../restorable_topology/remote_controller_apps/MM_SRLG_Controller.py --project-network-file ../restorable_topology/test_results/grid/grid1.p --observe-links
 
 **Starting Mininet:**
@@ -37,7 +41,3 @@ Then run the following command:
 
 Now you will need to edit the file *restorable_topology/src/mininet/bandwidthTest.py*, in the same manner described before. Then run the following command:
 > mn --custom restorable_topology/src/mininet/bandwidthTest.py
-
-
-
-This project has been tested with RYU version 4.2.
