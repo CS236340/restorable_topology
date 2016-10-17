@@ -4,26 +4,20 @@ This project is an attempt to implement the MM-SRLG algorithm presented in the p
 
 There are two main components:
 
-1) An implementation of a remote controller application, either:
-
-	a) based on the MM-SRLG algorithm.
-	b) based on a customized algorithm that uses disjoint paths to find routes between logical nodes.
-
-2) A Mininet topology initializer, which receives a network description file and starts up the network in Mininet. The remote controller application also needs this file for the initialization phase.
+1. An implementation of a remote controller application, either:
+ * based on the MM-SRLG algorithm.
+ * based on a customized algorithm that uses disjoint paths to find routes between logical nodes.
+2. A Mininet topology initializer, which receives a network description file and starts up the network in Mininet. The remote controller application also needs this file for the initialization phase.
 
 **Network description file:**
 
 Using Python, you will need to define a dictionary with 5 keys and then serialize it into a file using the *pickle* module. The keys are:
 
-1) 'V_P': a list of optical swithces (physical nodes).
-
-2) 'V_L': a sublist of V_P that can serve as routers (logical nodes).
-
-3) 'E_P': a list of optical links (physical edges).
-
-4) 'B': an integer representing the budget of the network. The budget is the maximum number of logical links allowed.
-
-5) 'C_P': an integer representing the capacity of each link in the network. It must be even and greater or equal to 2.
+1. 'V_P': a list of optical swithces (physical nodes).
+2. 'V_L': a sublist of V_P that can serve as routers (logical nodes).
+3. 'E_P': a list of optical links (physical edges).
+4. 'B': an integer representing the budget of the network. The budget is the maximum number of logical links allowed.
+5. 'C_P': an integer representing the capacity of each link in the network. It must be even and greater or equal to 2.
 
 See examples in the directory *network_generators*.
 
