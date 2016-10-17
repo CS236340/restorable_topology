@@ -27,7 +27,10 @@ Run the following command from Ryu's main directory (modify the paths in the com
 > PYTHONPATH=. ./bin/ryu-manager ../restorable_topology/remote_controller_apps/MM_SRLG_Controller.py --project-network-file ../restorable_topology/test_results/grid/grid1.p --observe-links
 
 **Starting Mininet:**
-Run the following command:
+
+First, you will need to edit the file *restorable_topology/src/mininet/customTopologyInitializerTest.py*. The instantiation of the object CustomTopologyInitializer receives a string representing a path to a file. Here you need to type the path to the network description file, the same file that was given to the "--project-network-file" switch in the command above.
+
+Then run the following command:
 > mn --custom restorable_topology/src/mininet/customTopologyInitializerTest.py --topo customTopology --controller=remote --switch ovsk --mac --arp
 
 This project has been tested with RYU version 4.2.
