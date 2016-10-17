@@ -11,7 +11,7 @@ There are two main components:
 
 **Network description file:**
 
-Using Python, you will need to define a dictionary with 5 keys and then serialize it into a file using the *pickle* module. The keys are:
+Using Python, you will need to define a dictionary with 5 key-value pairs and then serialize it into a file using the *pickle* module:
 
 1. 'V_P': a list of optical swithces (physical nodes).
 2. 'V_L': a sublist of V_P that can serve as routers (logical nodes).
