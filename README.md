@@ -21,6 +21,13 @@ Using Python, you will need to define a dictionary with 5 keys and then serializ
 
 See examples in the directory *network_generators*.
 
+**Starting up the controller:**
 
+Run the following command from Ryu's main directory (modify the paths in the command accordingly):
+> PYTHONPATH=. ./bin/ryu-manager ../restorable_topology/remote_controller_apps/MM_SRLG_Controller.py --project-network-file ../restorable_topology/test_results/grid/grid1.p --observe-links
+
+**Starting Mininet:**
+Run the following command:
+> mn --custom restorable_topology/src/mininet/customTopologyInitializerTest.py --topo customTopology --controller=remote --switch ovsk --mac --arp
 
 This project has been tested with RYU version 4.2.
